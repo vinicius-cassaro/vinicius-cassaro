@@ -1,4 +1,4 @@
-## Welcome to my page! ![visitors](https://visitor-badge.glitch.me/badge?page_id=vinicis.cassaro) ![GitHub last commit](https://img.shields.io/github/last-commit/vinicius-cassaro/vinicius-cassaro?label=profile%20updated)
+## Welcome to my page! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vinicis.cassaro) ![GitHub last commit](https://img.shields.io/github/last-commit/vinicius-cassaro/vinicius-cassaro?label=profile%20updated)
 #### I'm Vinícius Cassaro, Back-end developer from São Paulo, Brazil.
 
 <div align = "center">
