@@ -1,6 +1,5 @@
 # Vinícius Cassaro ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vinicis.cassaro) ![GitHub last commit](https://img.shields.io/github/last-commit/vinicius-cassaro/vinicius-cassaro?label=profile%20updated)
 
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/vinicius-cassaro/vinicius-cassaro/blob/main/README.md)
 [![pt](https://img.shields.io/badge/lang-pt-green.svg)](https://github.com/vinicius-cassaro/vinicius-cassaro/blob/main/README.pt.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/vinicius-cassaro/vinicius-cassaro/blob/main/README.es.md)
 
