@@ -8,7 +8,7 @@
 <div>
   <details>
     <summary><b>Sobre mim</b></summary>
-     - Graduado em Informática para Negócios pela Fatec.<br/>
+     - Tecnólogo em Informática para Negócios graduado pela Fatec.<br/>
      - Atualmente atuo como desenvolvedor web, especialmente no back-end. Também possuo experiência com desenvolvimento mobile e desktop.<br/>
      - Eu programo desde meados de 2016.
   </details>
