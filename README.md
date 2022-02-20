@@ -10,7 +10,7 @@
   <details>
     <summary><b>About me</b></summary>
      - Business Informatics Technologist graduated from Fatec (Faculdade de Tecnologia do Estado de São Paulo).<br/>
-     - Currently I'm a web developer, especially in black end. I also have experience with mobile and desktop development.<br/>
+     - Currently I'm a web developer, especially in back-end. I also have experience with mobile and desktop development.<br/>
      - I've been programming since 2016.
   </details>
 </div>
