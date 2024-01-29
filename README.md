@@ -56,8 +56,5 @@
     <a href="https://www.linkedin.com/in/vinicius-cassaro/">
     <img alt="Vinicius Cassaro LinkedIn" height=25 src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://twitter.com/viniciuscassaro" target="_blank">
-      <img alt="Vinicius Cassaro Twitter" height=25 src="https://img.shields.io/badge/Twitter-2CA5E0?style=flat-square&logo=twitter&logoColor=white">
-    </a>
   </details>
 <div>
