@@ -8,9 +8,9 @@
 <div>
   <details>
     <summary><b>About me</b></summary>
-     - Business Informatics Technologist graduated from Fatec (Faculdade de Tecnologia do Estado de São Paulo).<br/>
-     - Currently I'm a web developer, especially in back-end. I also have experience with mobile and desktop development.<br/>
-     - I've been programming since 2016.
+     - Graduated in Business Informatics Technology from Fatec (Faculdade de Tecnologia do Estado de São Paulo).<br/>
+     - Currently working as a web developer, specializing in back-end development. Also experienced in mobile and desktop development.<br/>
+     - Started programming in 2016.
   </details>
 </div>
 
@@ -33,19 +33,20 @@
 [comment]: <> (Frameworks and Tools)
     <img alt="Spring" height=25 src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img alt="Quarkus" height=25 src="https://img.shields.io/badge/Quarkus-F8F8FF?style=for-the-badge&logo=quarkus" />
-    <img alt="Micronaut" height=25 src="https://img.shields.io/badge/Micronaut-000000?style=for-the-badge&logo=micronaut&logoColor=white" />
+    <!--<img alt="Micronaut" height=25 src="https://img.shields.io/badge/Micronaut-000000?style=for-the-badge&logo=micronaut&logoColor=white" />-->
     <img alt="JUnit" height=25 src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-    <img alt="JWT" height=25 src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+    <!--<img alt="JWT" height=25 src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />-->
+    <img alt="Azure" height=25 src="https://img.shields.io/badge/Azure-0078d4?style=for-the-badge&logo=azure-devops&logoColor=white" />
     <img alt="Docker" height=25 src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="Git" height=25 src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 [comment]: <> (Data Bases)
     <img alt="MySQL" height=25 src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img alt="Oracle" height=25 src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
-    <img alt="SQL Server" height=25 src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+    <!--<img alt="Oracle" height=25 src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />-->
+    <!--<img alt="SQL Server" height=25 src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>-->
     <img alt="REDIS" height=25 src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
     <img alt="MongoDB" height=25 src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
-    <img alt="Cassandra" height=25 src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" />
+    <!--<img alt="Cassandra" height=25 src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" />-->
   </details>
 </div>
   
